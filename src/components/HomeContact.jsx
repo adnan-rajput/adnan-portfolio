@@ -29,7 +29,7 @@ const HomeContact = () => {
                 <div className="container text-center">
                     <div className="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style={{ maxWidth: '600PX' }}>
                         <p className="d-inline-block border rounded-pill py-1 px-4 mt-5">Contact Me</p>
-                        <h1>How can you communicate?</h1>
+                        <h1>How can you communicate??</h1>
                     </div>
 
                     <form action="" className="contact-form col-md-10 col-lg-8 m-auto" ref={form} onSubmit={sendEmail}>
